@@ -1,0 +1,101 @@
+body{
+    background-color: skyblue;
+}
+
+.hair {
+    overflow: hidden;
+    background-color:grey;
+}
+
+.hot{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+
+.cut{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.not{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.dot{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.pot{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.top{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.mup{
+    margin-top: 1%;
+    margin-left: 5%;
+} 
+  
+.hair a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.hair a:hover {
+    /* background-color: white; */
+    color: teal;
+}
+ 
+
+h1{
+    margin-bottom: 3%;
+    margin-left: 40%;
+}
+
+.wow{
+    margin-left: 5%;
+}
+
+.laff {
+    margin-left: 5%;
+    font-size: 2rem;
+    margin-top: -27%;
+}
+
+.you{
+    padding-top: 210px;
+    position: absolute;
+}
+
+.you img{
+    border: 10px solid rgb(110, 208, 227);
+    border-radius: 50%;
+    position: absolute;
+}
+
+.you h1.bio{
+    margin-left: 250px;
+}
+
+.you p.det{
+    margin-left: 250px;
+    width: 26%;
+}
+
+/* footer{
+    border-radius: 5px;
+    width: 100%;
+    height: 70px;
+    background-color:#0083ba;
+    position: relative;
+} */
+
